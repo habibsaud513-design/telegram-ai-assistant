@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "pelagic-region-493919-p2",
+  "private_key_id": "6f31b3ed3bb48a69b77ea42809afd1ba195539d5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDV3cbTrYgWNiw+\nlbuq5BuJlDGsbaJ0wu21cgWJ+pfMK+nJZCvdKeuZggThdjAbCwH0QIAzaxYXbUMf\nuIwoh3Yy2tLaJU5UFqb1Nlzhe95DkJ0EqzhEJtVn2DjL4WOlcozbWbeS1tFJXyXp\n+f9YZWLsqeTpAWG3tCc1S5gAqtwPJvF9idfgd27whZE99YvE1h/RcphO5xTGvSIp\nfI26nLzcF0JfcyVi0+z6hc7exrLMOzgLE+tuNW1fd7whulFi34j2CdORrCKBOu1A\nrMg9hRpxXcaJLhzlh6Tl3xlRKf3yd+WeHP45ajftG/qFShLh9K8rpP0Lx2GqKeJW\nFnGPtpefAgMBAAECggEAYSyd9Px6Qy1mOSGr3eA7qu2NDH3cPRV9EN64KZOVeY3S\nclFzpNAxXtS3BwK+pOsBfkv4dGSJ6ycYQseF17yFNmI7QCeHSanpPq3u0f2IZkbF\nMaPiswS6Hq8eT3Uf48MCwYAoay30dlQnVALlxPJ8WnBvtHeOQPw4fHzWmicISlFg\n6pdbsHsZD9cWuELWlp0slCvcJGnsIngKmoZjcXnTfKfLIYj+kREK+QPKsX3GjrbK\nT4UYrZpx7n/8m6OoBrqTq56/vPJJfpKoC8Kkqml0NBs3MbnAbet/nex+YLNgYKav\nPJMvIE6ibtW41LAZdcOZcRzlMRxrk98RLPXNNA4IsQKBgQDt5Cq6HrhvKMIkkA8i\nTWF7Y4h9ZJ8WNVRCPDLrVLDkHXQpfHtR9Vl+TqDdoUGVWn8Wxzi7RC1BLM8I6S5O\n1OgM/BpMlY9OgjqN/z+PZESQZ63Lc5y4xXHwjzTpTTCwp3GUEGgJsASqjNygMB/L\n2eJzAlfW3bhyrW52rMzx2++unQKBgQDmJW5C+6X8ZvpErLer8WWWXtCAL1TVYp+g\nyTk25yySy7XtJq00F1t7oppf+abQjIdRk8dPbxKun2k+vERiEDj48Jzqhd6z56ad\nVtO+4hset6A8uPQVMOJDp5h1QyV2uunYr9DhdLKBe3s1LFJWhj+H01idZwID10c7\ne9XRHdpMawKBgBQNK1zMwhb8hIC4c84cX58a4KJRHOeuTw/WKySS2uYfZW8pwutB\nlu2CiySjNvfzzMqKuElwka/wqvLBVNnoMDcH+N+Dq7SeXXkijqTzeqQBWTDQ6eDZ\nI6V3LKqNixEYzAYC7AIFCB+oB+CorcVs9B1lkSnXPnjMDYeLQSsRsr4xAoGBAJ83\nh/dpFuTt7PfzsUGPyCLmR0JW/E5/Y0Wd0CoudgS8T4jYN/0Qp6Z50GjTUtd2UOtb\n3AgVJIyQFgRjxL8+z9tQwo3wvSgi+35gIi8tR2vRx1Ya8ily3yXE3VFKebGRD9Rr\nlYtT62ZuoccgeXoIeA0kZmrGZ3t2xH3fZwW7rFkvAoGBALTYtqEqLl3GpFKiyQQ5\n/m8S3T4Haa2qWTcvyqV+NhfdcWDzYC7T/PmtUkYLGe/Mk3JzaXZLlzEBKz7fD8J+\na/Ul0qkHocU2KcddnozEcNX5cNAjR36HskuWcqPMK/NHwlQb+Sk8kAbY8YHh3PPc\nx8XO5E/vrdnwCBn640GAt23Z\n-----END PRIVATE KEY-----\n",
+  "client_email": "telegram-ai-assistant@pelagic-region-493919-p2.iam.gserviceaccount.com",
+  "client_id": "118294842091066190685",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/telegram-ai-assistant%40pelagic-region-493919-p2.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
